@@ -1,0 +1,1 @@
+app-emulation/qemu qemu_softmmu_targets_aarch64 qemu_softmmu_targets_arm qemu_softmmu_targets_i386 sdl
