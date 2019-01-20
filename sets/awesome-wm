@@ -1,0 +1,9 @@
+x11-wm/awesome
+x11-misc/xclip
+x11-misc/xscreensaver
+x11-plugins/vicious
+x11-misc/xautolock
+gnome-extra/polkit-gnome
+dev-qt/qtdbus
+dev-qt/qtsvg
+gnome-extra/nm-applet
